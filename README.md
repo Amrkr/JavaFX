@@ -1,6 +1,6 @@
 # JavaFX
 
-# Configuration
+# Installation / Configuration
 
 Install Java 10 or later.
 
